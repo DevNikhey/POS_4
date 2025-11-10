@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\floodfill\\floodfill\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|solutionrelative:floodfill\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\floodfill\\floodfill\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|solutionrelative:floodfill\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\floodfill\\floodfill\\overlay.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AD0CEE83-261F-492B-B615-E19CC22B2853}|Floodfill\\Floodfill.csproj|solutionrelative:floodfill\\overlay.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Floodfill\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Floodfill\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwJgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:00:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Floodfill\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\MainWindow.xaml",
+              "RelativeToolTip": "Floodfill\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T11:50:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Overlay.png -  [Deutsch (Deutschland)] - PNG [390x500, 32-Bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\Overlay.png",
+              "RelativeDocumentMoniker": "Floodfill\\Overlay.png",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Floodfill\\Floodfill\\Overlay.png -  [Deutsch (Deutschland)] - PNG [390x500, 32-Bit, PNG]",
+              "RelativeToolTip": "Floodfill\\Overlay.png -  [Deutsch (Deutschland)] - PNG [390x500, 32-Bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-25T11:41:51.176Z",
+              "EditorCaption": " -  [Deutsch (Deutschland)] - PNG [390x500, 32-Bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

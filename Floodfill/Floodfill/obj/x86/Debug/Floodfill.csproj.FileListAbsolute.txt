@@ -1,0 +1,41 @@
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\Floodfill.csproj.AssemblyReference.cache
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\MainWindow.baml
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\App.g.cs
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\PixelDraw_MarkupCompile.cache
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\PixelDraw.g.resources
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\Floodfill.csproj.GenerateResource.cache
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\Floodfill.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\bin\Debug\PixelDraw.exe
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\bin\Debug\PixelDraw.pdb
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\PixelDraw.Properties.Resources.resources
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\PixelDraw.exe
+C:\Users\Wolfgang Schermann\Downloads\PixelDraw 2023\Floodfill\obj\x86\Debug\PixelDraw.pdb
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\bin\Debug\PixelDraw.exe
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\bin\Debug\PixelDraw.pdb
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.AssemblyReference.cache
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\MainWindow.baml
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\App.g.cs
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\PixelDraw_MarkupCompile.cache
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.g.resources
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.Properties.Resources.resources
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.GenerateResource.cache
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.exe
+C:\Users\Wolfgang Schermann\Downloads\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\bin\Debug\PixelDraw.exe.config
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\bin\Debug\PixelDraw.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\bin\Debug\PixelDraw.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.AssemblyReference.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\MainWindow.baml
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\App.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw_MarkupCompile.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.g.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.Properties.Resources.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.GenerateResource.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\Floodfill.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Floodfill\Floodfill\obj\x86\Debug\PixelDraw.exe.config
