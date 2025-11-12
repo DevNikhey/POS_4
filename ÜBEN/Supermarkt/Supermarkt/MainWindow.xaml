@@ -7,15 +7,27 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Start" Click="Button_Click" HorizontalAlignment="Left" Margin="38,61,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="kundenAnzahl" HorizontalAlignment="Left" Margin="10,31,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="316,128,316,127">
+        <Button Content="Start" Click="Button_Click" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="kundenAnzahl" HorizontalAlignment="Left" Margin="10,31,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="120"/>
+        <ListView x:Name="einkaufsliste" Margin="316,128,316,127">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
                 </GridView>
             </ListView.View>
         </ListView>
+
+        <ListView x:Name="warteliste" Margin="96,128,536,127">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Wartet" HorizontalAlignment="Left" Margin="96,102,0,0" VerticalAlignment="Top"/>
+        <Label Content="Zahlt" HorizontalAlignment="Left" Margin="316,102,0,0" VerticalAlignment="Top"/>
+        <Label Content="Anzahl Kunden" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="kassastatus" Content="Status:" HorizontalAlignment="Left" Margin="262,76,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

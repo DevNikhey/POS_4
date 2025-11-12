@@ -18,3 +18,4 @@ C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\Supermarkt\Supermarkt
 C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\Supermarkt\Supermarkt\obj\Debug\net8.0-windows\Supermarkt.pdb
 C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\Supermarkt\Supermarkt\obj\Debug\net8.0-windows\Supermarkt.genruntimeconfig.cache
 C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\Supermarkt\Supermarkt\obj\Debug\net8.0-windows\ref\Supermarkt.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\Supermarkt\Supermarkt\obj\Debug\net8.0-windows\Supermarkt.sourcelink.json

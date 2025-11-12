@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\aufzug\\aufzug\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|solutionrelative:aufzug\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\aufzug\\aufzug\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|solutionrelative:aufzug\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\aufzug\\aufzug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|solutionrelative:aufzug\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\aufzug\\aufzug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|solutionrelative:aufzug\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\aufzug\\aufzug\\stockwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1628B0C2-A314-43E3-BE2B-AD2F42760BC4}|Aufzug\\Aufzug.csproj|solutionrelative:aufzug\\stockwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stockwork.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Stockwork.cs",
+              "RelativeDocumentMoniker": "Aufzug\\Stockwork.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Stockwork.cs",
+              "RelativeToolTip": "Aufzug\\Stockwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:05:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Person.cs",
+              "RelativeDocumentMoniker": "Aufzug\\Person.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Person.cs",
+              "RelativeToolTip": "Aufzug\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:05:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Elevator.cs",
+              "RelativeDocumentMoniker": "Aufzug\\Elevator.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\Elevator.cs",
+              "RelativeToolTip": "Aufzug\\Elevator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv1AAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:59.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aufzug\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\MainWindow.xaml",
+              "RelativeToolTip": "Aufzug\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T11:03:52.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aufzug\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\Aufzug\\Aufzug\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aufzug\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:51.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

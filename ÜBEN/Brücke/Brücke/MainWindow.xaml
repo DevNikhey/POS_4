@@ -1,0 +1,18 @@
+﻿<Window x:Class="Brücke.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brücke"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Click="Button_Click" Content="Start" HorizontalAlignment="Left" Margin="29,34,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="westbox" Margin="119,149,541,149"/>
+        <ListBox x:Name="crossbox" Margin="330,149,330,149"/>
+        <ListBox x:Name="eastbox" Margin="542,149,118,149"/>
+        <Label Content="West" HorizontalAlignment="Left" Margin="119,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="Crossing" HorizontalAlignment="Left" Margin="330,118,0,0" VerticalAlignment="Top"/>
+        <Label Content="East" HorizontalAlignment="Left" Margin="542,120,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

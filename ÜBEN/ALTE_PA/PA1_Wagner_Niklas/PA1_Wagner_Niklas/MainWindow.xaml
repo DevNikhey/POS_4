@@ -1,0 +1,29 @@
+﻿<Window x:Class="PA1_Wagner_Niklas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PA1_Wagner_Niklas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Click="Button_Click" Content="Aufgabe 3" HorizontalAlignment="Left" Margin="26,30,0,0" VerticalAlignment="Top"/>
+        <Button Click="Button_Click_1" Content="Aufgabe 4" HorizontalAlignment="Left" Margin="26,55,0,0" VerticalAlignment="Top"/>
+        <Button Click="Button_Click_2" Content="Aufgabe 6" HorizontalAlignment="Left" Margin="26,80,0,0" VerticalAlignment="Top"/>
+        <Button Click="Button_Click_3" Content="Aufgabe 7" HorizontalAlignment="Left" Margin="26,105,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="azPersonen" HorizontalAlignment="Left" Margin="26,10,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="OG2" Margin="364,27,290,281"/>
+        <ListBox x:Name="EG" Margin="364,298,290,10"/>
+        <ListBox x:Name="OG1" Margin="364,158,290,150"/>
+        <ListBox x:Name="AZ" Margin="543,158,111,150"/>
+        <Label Content="Aufzug" HorizontalAlignment="Left" Margin="597,132,0,0" VerticalAlignment="Top"/>
+        <Label Content="OG 2" HorizontalAlignment="Left" Margin="311,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="og2C" Content="OG 2" HorizontalAlignment="Left" Margin="311,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="OG 1" HorizontalAlignment="Left" Margin="311,208,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="og1C" Content="OG 1" HorizontalAlignment="Left" Margin="311,239,0,0" VerticalAlignment="Top"/>
+        <Label Content="EG" HorizontalAlignment="Left" Margin="311,348,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="egC" Content="egC" HorizontalAlignment="Left" Margin="311,379,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

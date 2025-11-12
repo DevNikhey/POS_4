@@ -1,0 +1,55 @@
+﻿<Window x:Class="Kreuzung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kreuzung"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Label x:Name="auto_Norden_lbl">Auto Norden</Label>
+            <ListBox x:Name="auto_norden"></ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Label x:Name="auto_Westen_lbl">Auto Westen</Label>
+            <ListBox x:Name="auto_westen"></ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Label x:Name="kreuzung_lbl">Kreuzung</Label>
+            <ListBox x:Name="kreuzung_lb"></ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <Label x:Name="auto_osten_lbl">Auto Osten</Label>
+            <ListBox x:Name="auto_osten"></ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Grid.Column="1">
+            <Label x:Name="auto_sueden_lbl">Auto Süden</Label>
+            <ListBox x:Name="auto_sueden"></ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="2" VerticalAlignment="Center">
+            <Label>Anzahl Autos</Label>
+            <TextBox x:Name="anzahl_Autos"></TextBox>
+            <Button x:Name="Start" Click="Start_Click">Start</Button>
+            <Button x:Name="Star_large" Click="Star_large_Click">Start Larg Crossraod</Button>
+            <Button x:Name="AmpelKreuzung" Click="AmpelKreuzung_Click">Start Ampelkreuzung</Button>
+            <Button x:Name="SensorAmpelKreuzung" Click="SensorAmpelKreuzung_Click">Sensor Ampelkreuzung</Button>
+        </StackPanel>
+    </Grid>
+</Window>

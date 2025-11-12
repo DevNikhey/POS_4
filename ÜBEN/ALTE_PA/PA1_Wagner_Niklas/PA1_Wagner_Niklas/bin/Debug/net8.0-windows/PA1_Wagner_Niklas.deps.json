@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PA1_Wagner_Niklas/1.0.0": {
+        "runtime": {
+          "PA1_Wagner_Niklas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PA1_Wagner_Niklas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
