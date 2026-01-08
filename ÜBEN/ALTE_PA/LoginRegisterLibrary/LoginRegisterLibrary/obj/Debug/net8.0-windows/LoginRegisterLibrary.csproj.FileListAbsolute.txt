@@ -1,0 +1,17 @@
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\bin\Debug\net8.0-windows\LoginRegisterLibrary.deps.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\bin\Debug\net8.0-windows\LoginRegisterLibrary.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\bin\Debug\net8.0-windows\LoginRegisterLibrary.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary_MarkupCompile.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary_MarkupCompile.lref
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\Themes\Generic.baml
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.g.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.AssemblyInfoInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.AssemblyInfo.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.sourcelink.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\refint\LoginRegisterLibrary.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\LoginRegisterLibrary.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\LoginRegisterLibrary\LoginRegisterLibrary\obj\Debug\net8.0-windows\ref\LoginRegisterLibrary.dll

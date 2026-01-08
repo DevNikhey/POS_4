@@ -1,0 +1,3 @@
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\UebenProjekt\obj\Debug\net8.0-windows\UebenProjekt.csproj.AssemblyReference.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\UebenProjekt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\UebenProjekt\obj\Debug\net8.0-windows\UebenProjekt_MarkupCompile.cache

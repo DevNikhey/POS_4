@@ -1,0 +1,63 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:LoginRegisterLibrary">
+    <Style TargetType="{x:Type local:LoginControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:LoginControl}">
+                    <StackPanel Margin="10" Width="300">
+                        <TextBlock Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=UseUsername}" Margin="0,0,0,5"/>
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=UsernameOrEmail, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Password, Mode=TwoWay}" Margin="0,0,0,5"/>
+                        <Button x:Name="PART_LoginButton" Content="Login" Margin="0,5,0,0"/>
+                        <Button x:Name="PART_SwitchButton" Content="Zum Registrieren" Margin="0,5,0,0"/>
+                    </StackPanel>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type local:RegisterControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:RegisterControl}">
+                    <StackPanel Margin="10" Width="300">
+                        <TextBox Text="Vorname" IsEnabled="False"></TextBox>
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Username, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+                        <TextBox Text="Password" IsEnabled="False"></TextBox>
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Password, Mode=TwoWay}" Margin="0,0,0,5"/>
+
+                        <Button x:Name="PART_RegisterButton" Content="Registrieren" Margin="0,5,0,0"/>
+                        <Button x:Name="PART_SwitchButton" Content="Zum Einloggen" Margin="0,5,0,0"/>
+                    </StackPanel>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type local:SpeedoControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:SpeedoControl}">
+                    <Grid>
+                        <!-- Hintergrundbild -->
+                        <Image Source="pack://application:,,,/LoginRegisterLibrary;component/Themes/Images/speedo.png" />
+
+                        <!-- Nadelbild -->
+                        <Image x:Name="PART_Needle"
+                               Source="pack://application:,,,/LoginRegisterLibrary;component/Themes/Images/needle.png"
+                               Width="20" Height="100"
+                               RenderTransformOrigin="0.5,0.9">
+                            <Image.RenderTransform>
+                                <RotateTransform Angle="0" />
+                            </Image.RenderTransform>
+                        </Image>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

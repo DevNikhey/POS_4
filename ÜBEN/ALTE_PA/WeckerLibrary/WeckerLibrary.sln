@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeckerLibrary", "WeckerLibrary\WeckerLibrary.csproj", "{E214F54D-2C60-4BDE-AA03-89DABBFE50F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeckerProgram", "WeckerProgram\WeckerProgram.csproj", "{BE41C39D-2558-4658-B5A4-C5AE49281D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E214F54D-2C60-4BDE-AA03-89DABBFE50F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E214F54D-2C60-4BDE-AA03-89DABBFE50F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E214F54D-2C60-4BDE-AA03-89DABBFE50F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E214F54D-2C60-4BDE-AA03-89DABBFE50F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE41C39D-2558-4658-B5A4-C5AE49281D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE41C39D-2558-4658-B5A4-C5AE49281D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE41C39D-2558-4658-B5A4-C5AE49281D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE41C39D-2558-4658-B5A4-C5AE49281D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5532A001-2980-4CA5-B7F1-640C10EB17EA}
+	EndGlobalSection
+EndGlobal

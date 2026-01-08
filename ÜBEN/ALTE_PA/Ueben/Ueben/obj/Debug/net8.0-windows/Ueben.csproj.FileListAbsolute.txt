@@ -1,0 +1,5 @@
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\Ueben\obj\Debug\net8.0-windows\Ueben.csproj.AssemblyReference.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\Ueben\obj\Debug\net8.0-windows\DateTimeDlg.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\Ueben\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\Ueben\obj\Debug\net8.0-windows\Ueben_MarkupCompile.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\ÜBEN\ALTE_PA\Ueben\Ueben\obj\Debug\net8.0-windows\Ueben_MarkupCompile.lref

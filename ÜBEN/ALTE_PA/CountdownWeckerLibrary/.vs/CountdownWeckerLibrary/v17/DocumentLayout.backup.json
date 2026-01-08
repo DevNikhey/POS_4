@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownweckerlibrary\\datetimedlg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|solutionrelative:countdownweckerlibrary\\datetimedlg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownweckerlibrary\\datetimedlg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|solutionrelative:countdownweckerlibrary\\datetimedlg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownweckerlibrary\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|solutionrelative:countdownweckerlibrary\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownweckerlibrary\\countdownweckerlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|solutionrelative:countdownweckerlibrary\\countdownweckerlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F469-164B-4FAA-9DAD-438EB72FE1E1}|CountdownApp\\CountdownApp.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F469-164B-4FAA-9DAD-438EB72FE1E1}|CountdownApp\\CountdownApp.csproj|solutionrelative:countdownapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownweckerlibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0141C34C-7A04-4E82-889A-F14E0D3D9766}|CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj|solutionrelative:countdownweckerlibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F469-164B-4FAA-9DAD-438EB72FE1E1}|CountdownApp\\CountdownApp.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\\u00FCben\\alte_pa\\countdownweckerlibrary\\countdownapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5135F469-164B-4FAA-9DAD-438EB72FE1E1}|CountdownApp\\CountdownApp.csproj|solutionrelative:countdownapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CountdownApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CountdownApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:12:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTimeDlg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\DateTimeDlg.xaml.cs",
+              "RelativeDocumentMoniker": "CountdownWeckerLibrary\\DateTimeDlg.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\DateTimeDlg.xaml.cs",
+              "RelativeToolTip": "CountdownWeckerLibrary\\DateTimeDlg.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:53:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeDlg.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\DateTimeDlg.xaml",
+              "RelativeDocumentMoniker": "CountdownWeckerLibrary\\DateTimeDlg.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\DateTimeDlg.xaml",
+              "RelativeToolTip": "CountdownWeckerLibrary\\DateTimeDlg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T12:53:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountdownWeckerLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj",
+              "RelativeDocumentMoniker": "CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj",
+              "RelativeToolTip": "CountdownWeckerLibrary\\CountdownWeckerLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T12:53:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "CountdownWeckerLibrary\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\Themes\\Generic.xaml",
+              "RelativeToolTip": "CountdownWeckerLibrary\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T12:52:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "CountdownWeckerLibrary\\CustomControl1.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownWeckerLibrary\\CustomControl1.cs",
+              "RelativeToolTip": "CountdownWeckerLibrary\\CustomControl1.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAA2wKQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:52:03.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CountdownApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\\u00DCBEN\\ALTE_PA\\CountdownWeckerLibrary\\CountdownApp\\MainWindow.xaml",
+              "RelativeToolTip": "CountdownApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T13:12:17.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
