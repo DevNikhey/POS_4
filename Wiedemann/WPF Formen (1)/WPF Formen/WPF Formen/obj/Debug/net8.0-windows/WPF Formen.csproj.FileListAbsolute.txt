@@ -1,0 +1,42 @@
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.exe
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.deps.json
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.runtimeconfig.json
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.lref
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.g.resources
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfoInputs.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfo.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\refint\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.genruntimeconfig.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\ref\WPF Formen.dll
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.exe
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.deps.json
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.runtimeconfig.json
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.dll
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.pdb
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\App.g.cs
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.cache
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.lref
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.baml
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.g.resources
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfoInputs.cache
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfo.cs
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.dll
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\refint\WPF Formen.dll
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.pdb
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.genruntimeconfig.cache
+C:\HTL4\Pos\Üben\2. PA\WPF Formen (1)\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\ref\WPF Formen.dll

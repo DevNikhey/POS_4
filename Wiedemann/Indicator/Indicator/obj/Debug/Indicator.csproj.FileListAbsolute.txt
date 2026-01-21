@@ -1,0 +1,13 @@
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\bin\Debug\Indicator.dll
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\bin\Debug\Indicator.pdb
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.csproj.AssemblyReference.cache
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator_MarkupCompile.cache
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator_MarkupCompile.lref
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Themes\Generic.baml
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.g.resources
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.Properties.Resources.resources
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.csproj.GenerateResource.cache
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.dll
+C:\HTL4\Pos\Üben\2. PA\Indicator\Indicator\obj\Debug\Indicator.pdb

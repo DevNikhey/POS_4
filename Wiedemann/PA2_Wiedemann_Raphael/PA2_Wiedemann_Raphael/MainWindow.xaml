@@ -1,0 +1,15 @@
+﻿<Window x:Class="PA2_Wiedemann_Raphael.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PA2_Wiedemann_Raphael"
+        xmlns:bewertung="clr-namespace:RatingControlNP;assembly=RatingControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <bewertung:RatingControl Rating="4" ShowNumber="Visible"></bewertung:RatingControl>
+        <local:Spirale X1="150" Y1="300" Stroke="Red" StrokeThickness="2" Umdrehungen="4" Steigung="5" Ecken="5"></local:Spirale>
+        <local:Slice X1="460" Y1="300" Radius="50" Angle="30" Stroke="Green" StrokeThickness="2"></local:Slice>
+    </Grid>
+</Window>

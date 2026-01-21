@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wpf formen (1)\\wpf formen\\wpf formen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wpf formen (1)\\wpf formen\\wpf formen\\vieleckbasis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\vieleckbasis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wpf formen (1)\\wpf formen\\wpf formen\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wpf formen (1)\\wpf formen\\wpf formen\\parallelogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\parallelogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wpf formen (1)\\wpf formen\\wpf formen\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF Formen\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\MainWindow.xaml",
+              "RelativeToolTip": "WPF Formen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-15T18:34:36.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Polygon.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Polygon.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Polygon.cs",
+              "RelativeToolTip": "WPF Formen\\Polygon.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:34:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VieleckBasis.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\VieleckBasis.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\VieleckBasis.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\VieleckBasis.cs",
+              "RelativeToolTip": "WPF Formen\\VieleckBasis.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:31:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Basis.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Basis.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Basis.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Basis.cs",
+              "RelativeToolTip": "WPF Formen\\Basis.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:31:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parallelogramm.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Parallelogramm.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Parallelogramm.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\WPF Formen (1)\\WPF Formen\\WPF Formen\\Parallelogramm.cs",
+              "RelativeToolTip": "WPF Formen\\Parallelogramm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:41:18.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

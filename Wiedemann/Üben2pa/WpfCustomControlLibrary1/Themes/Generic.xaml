@@ -1,0 +1,46 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WpfCustomControlLibrary1">
+    <Style TargetType="{x:Type local:ToggleIconControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:ToggleIconControl}">
+                    <Grid Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Icon -->
+                        <Ellipse x:Name="Icon"
+                            Width="30"
+                            Height="30"
+                            Fill="Gray"
+                            VerticalAlignment="Center"/>
+
+                        <!-- Text -->
+                        <TextBlock x:Name="Label"
+                            Grid.Column="1"
+                            Margin="8,0,0,0"
+                            VerticalAlignment="Center"
+                            Text="{Binding TextOff, RelativeSource={RelativeSource TemplatedParent}}"/>
+                    </Grid>
+
+                    <!-- Trigger -->
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsOn" Value="True">
+                            <Setter TargetName="Icon"
+                                Property="Fill"
+                                Value="Green"/>
+                            <Setter TargetName="Label"
+                                Property="Text"
+                                Value="{Binding TextOn, RelativeSource={RelativeSource TemplatedParent}}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

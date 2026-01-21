@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOGKCeL2lys=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\Desktop\\Schule\\HTL4\\POS\\Pa2\\System_Monitor\\System_Monitor\\System_Monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\system.management\\10.0.1\\system.management.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

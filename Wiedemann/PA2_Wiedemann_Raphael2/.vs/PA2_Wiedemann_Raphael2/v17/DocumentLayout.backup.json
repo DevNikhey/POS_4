@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62AFDD-AD59-450F-80B9-EC760F88B1C1}|Indicator\\Indicator.csproj|c:\\htl4\\pos\\\u00FCben\\pa2_wiedemann_raphael2\\indicator\\statusindicatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A62AFDD-AD59-450F-80B9-EC760F88B1C1}|Indicator\\Indicator.csproj|solutionrelative:indicator\\statusindicatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A62AFDD-AD59-450F-80B9-EC760F88B1C1}|Indicator\\Indicator.csproj|c:\\htl4\\pos\\\u00FCben\\pa2_wiedemann_raphael2\\indicator\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A62AFDD-AD59-450F-80B9-EC760F88B1C1}|Indicator\\Indicator.csproj|solutionrelative:indicator\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1800926-DD06-490B-99E9-ABAB3FE42B73}|PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2.csproj|c:\\htl4\\pos\\\u00FCben\\pa2_wiedemann_raphael2\\pa2_wiedemann_raphael2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1800926-DD06-490B-99E9-ABAB3FE42B73}|PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2.csproj|solutionrelative:pa2_wiedemann_raphael2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1800926-DD06-490B-99E9-ABAB3FE42B73}|PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2.csproj|c:\\htl4\\pos\\\u00FCben\\pa2_wiedemann_raphael2\\pa2_wiedemann_raphael2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1800926-DD06-490B-99E9-ABAB3FE42B73}|PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2.csproj|solutionrelative:pa2_wiedemann_raphael2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\Indicator\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Indicator\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\Indicator\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Indicator\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-17T18:16:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusIndicatorControl.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\Indicator\\StatusIndicatorControl.cs",
+              "RelativeDocumentMoniker": "Indicator\\StatusIndicatorControl.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\Indicator\\StatusIndicatorControl.cs",
+              "RelativeToolTip": "Indicator\\StatusIndicatorControl.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T18:13:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PA2_Wiedemann_Raphael2\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2\\MainWindow.xaml",
+              "RelativeToolTip": "PA2_Wiedemann_Raphael2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-17T18:12:53.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PA2_Wiedemann_Raphael2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\PA2_Wiedemann_Raphael2\\PA2_Wiedemann_Raphael2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PA2_Wiedemann_Raphael2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T18:12:49.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

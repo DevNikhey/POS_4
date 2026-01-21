@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42D1E8F-FA88-E47A-0431-AF006F5F9C73}|Wecker_Anwendung\\Countdown_Anwendung.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wecker\\wecker_anwendung\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A42D1E8F-FA88-E47A-0431-AF006F5F9C73}|Wecker_Anwendung\\Countdown_Anwendung.csproj|solutionrelative:wecker_anwendung\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wecker\\wecker\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|solutionrelative:wecker\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wecker\\wecker\\countdown.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|solutionrelative:wecker\\countdown.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wecker\\wecker\\datetimedlg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|solutionrelative:wecker\\datetimedlg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\wecker\\wecker\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38FB63CD-A5D3-B232-8051-20DF3517D992}|Wecker\\Countdown.csproj|solutionrelative:wecker\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Countdown",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Countdown.csproj",
+              "RelativeDocumentMoniker": "Wecker\\Countdown.csproj",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Countdown.csproj",
+              "RelativeToolTip": "Wecker\\Countdown.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T19:22:16.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker_Anwendung\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wecker_Anwendung\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker_Anwendung\\MainWindow.xaml",
+              "RelativeToolTip": "Wecker_Anwendung\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-07T19:17:07.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Countdown.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Countdown.cs",
+              "RelativeDocumentMoniker": "Wecker\\Countdown.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Countdown.cs",
+              "RelativeToolTip": "Wecker\\Countdown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:16:45.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Wecker\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Wecker\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-07T19:16:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateTimeDlg.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\DateTimeDlg.xaml",
+              "RelativeDocumentMoniker": "Wecker\\DateTimeDlg.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Wecker\\Wecker\\DateTimeDlg.xaml",
+              "RelativeToolTip": "Wecker\\DateTimeDlg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-07T19:15:38.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

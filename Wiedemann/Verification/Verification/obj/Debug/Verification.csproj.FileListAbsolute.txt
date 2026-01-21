@@ -1,0 +1,13 @@
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.csproj.AssemblyReference.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification_MarkupCompile.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\bin\Debug\Verification.dll
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\bin\Debug\Verification.pdb
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification_MarkupCompile.lref
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Themes\Generic.baml
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.g.resources
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.Properties.Resources.resources
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.csproj.GenerateResource.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.dll
+C:\HTL4\Pos\Üben\2. PA\Verification\Verification\obj\Debug\Verification.pdb

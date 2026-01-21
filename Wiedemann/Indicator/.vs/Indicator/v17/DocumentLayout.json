@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AEFBAC-B339-4BD0-942C-EC4D43864D49}|Indicator.TestApp\\Indicator.TestApp.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\indicator\\indicator.testapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37AEFBAC-B339-4BD0-942C-EC4D43864D49}|Indicator.TestApp\\Indicator.TestApp.csproj|solutionrelative:indicator.testapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA087AD6-64B8-40E2-B090-7BCA1881884E}|Indicator\\Indicator.csproj|c:\\htl4\\pos\\\u00FCben\\2. pa\\indicator\\indicator\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA087AD6-64B8-40E2-B090-7BCA1881884E}|Indicator\\Indicator.csproj|solutionrelative:indicator\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA087AD6-64B8-40E2-B090-7BCA1881884E}|Indicator\\Indicator.csproj|C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\indicator\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA087AD6-64B8-40E2-B090-7BCA1881884E}|Indicator\\Indicator.csproj|solutionrelative:indicator\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator.TestApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Indicator.TestApp\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator.TestApp\\MainWindow.xaml",
+              "RelativeToolTip": "Indicator.TestApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T10:52:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "Indicator\\CustomControl1.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator\\CustomControl1.cs",
+              "RelativeToolTip": "Indicator\\CustomControl1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:51:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Indicator\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\2. PA\\Indicator\\Indicator\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Indicator\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T10:51:51.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

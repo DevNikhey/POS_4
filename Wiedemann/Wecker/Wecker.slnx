@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Wecker/Countdown.csproj" />
+  <Project Path="Wecker_Anwendung/Countdown_Anwendung.csproj" />
+</Solution>

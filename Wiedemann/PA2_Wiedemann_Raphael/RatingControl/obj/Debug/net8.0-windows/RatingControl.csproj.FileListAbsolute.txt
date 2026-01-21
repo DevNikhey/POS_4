@@ -1,0 +1,16 @@
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl_MarkupCompile.cache
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\bin\Debug\net8.0-windows\RatingControl.deps.json
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\bin\Debug\net8.0-windows\RatingControl.dll
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\bin\Debug\net8.0-windows\RatingControl.pdb
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl_MarkupCompile.lref
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\Themes\Generic.baml
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.g.resources
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.AssemblyInfoInputs.cache
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.AssemblyInfo.cs
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.dll
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\refint\RatingControl.dll
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\RatingControl.pdb
+C:\HTL4\Pos\Üben\PA2_Wiedemann_Raphael\RatingControl\obj\Debug\net8.0-windows\ref\RatingControl.dll

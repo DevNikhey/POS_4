@@ -1,0 +1,13 @@
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.csproj.AssemblyReference.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl_MarkupCompile.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl_MarkupCompile.lref
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.dll
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.pdb
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\bin\Debug\LoginControl.dll
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\bin\Debug\LoginControl.pdb
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\Themes\Generic.baml
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.g.resources
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.Properties.Resources.resources
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.csproj.GenerateResource.cache
+C:\HTL4\Pos\Üben\2. PA\Verification\LoginControl\obj\Debug\LoginControl.csproj.CoreCompileInputs.cache

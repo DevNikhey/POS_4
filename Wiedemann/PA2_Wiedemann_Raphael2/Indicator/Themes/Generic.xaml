@@ -1,0 +1,21 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Indicator">
+    <Style TargetType="{x:Type local:StatusIndicatorControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:StatusIndicatorControl}">
+                    <Grid Background="Transparent">
+                        <Ellipse x:Name="Kreis" Height="200" Width="200" Fill="Transparent"/>
+
+                        <TextBlock Text="{Binding Status, RelativeSource={RelativeSource TemplatedParent}}" Visibility="{Binding ShowNumber, RelativeSource={RelativeSource TemplatedParent}}" FontSize="20" IsHitTestVisible="False"></TextBlock>
+
+                        <Button x:Name="Button" Height="20" Width="30" HorizontalAlignment="Right" >Klick</Button>
+                    </Grid>
+
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

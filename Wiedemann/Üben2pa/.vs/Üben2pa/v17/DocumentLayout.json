@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88EEF8D5-4A5F-4D6F-8777-AE05B3B6EE76}|WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|c:\\htl4\\pos\\\u00FCben\\\u00FCben2pa\\wpfcustomcontrollibrary1\\toggleiconcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EEF8D5-4A5F-4D6F-8777-AE05B3B6EE76}|WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|solutionrelative:wpfcustomcontrollibrary1\\toggleiconcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EEF8D5-4A5F-4D6F-8777-AE05B3B6EE76}|WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|c:\\htl4\\pos\\\u00FCben\\\u00FCben2pa\\wpfcustomcontrollibrary1\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88EEF8D5-4A5F-4D6F-8777-AE05B3B6EE76}|WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|solutionrelative:wpfcustomcontrollibrary1\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7EB5A-8B99-462D-A7E0-2515E21E2DB8}|\u00DCben2pa\\\u00DCben2pa.csproj|c:\\htl4\\pos\\\u00FCben\\\u00FCben2pa\\\u00FCben2pa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF7EB5A-8B99-462D-A7E0-2515E21E2DB8}|\u00DCben2pa\\\u00DCben2pa.csproj|solutionrelative:\u00FCben2pa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7EB5A-8B99-462D-A7E0-2515E21E2DB8}|\u00DCben2pa\\\u00DCben2pa.csproj|c:\\htl4\\pos\\\u00FCben\\\u00FCben2pa\\\u00FCben2pa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7EB5A-8B99-462D-A7E0-2515E21E2DB8}|\u00DCben2pa\\\u00DCben2pa.csproj|solutionrelative:\u00FCben2pa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\WpfCustomControlLibrary1\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfCustomControlLibrary1\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\WpfCustomControlLibrary1\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfCustomControlLibrary1\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-20T10:46:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToggleIconControl.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\WpfCustomControlLibrary1\\ToggleIconControl.cs",
+              "RelativeDocumentMoniker": "WpfCustomControlLibrary1\\ToggleIconControl.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\WpfCustomControlLibrary1\\ToggleIconControl.cs",
+              "RelativeToolTip": "WpfCustomControlLibrary1\\ToggleIconControl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:45:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\\u00DCben2pa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u00DCben2pa\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\\u00DCben2pa\\MainWindow.xaml",
+              "RelativeToolTip": "\u00DCben2pa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-20T10:44:32.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\\u00DCben2pa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u00DCben2pa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\\u00DCben2pa\\\u00DCben2pa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u00DCben2pa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:44:29.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

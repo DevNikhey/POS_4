@@ -1,0 +1,44 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:RatingControlNP">
+
+    <Style TargetType="{x:Type local:RatingControl}">
+    <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:RatingControl}">
+                 
+                    <Grid>
+                        
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <Image x:Name="Star1" Width="100" Source="/RatingControl;component/Resources/Star_selected.png" Grid.Column="0"/>
+                        <Image x:Name="Star2" Width="100" Source="/RatingControl;component/Resources/Star_selected.png" Grid.Column="1"/>
+                        <Image x:Name="Star3" Width="100" Source="/RatingControl;component/Resources/Star_selected.png" Grid.Column="2"/>
+                        <Image x:Name="Star4" Width="100" Source="/RatingControl;component/Resources/Star_selected.png" Grid.Column="3"/>
+                        <Image x:Name="Star5" Width="100" Source="/RatingControl;component/Resources/Star_selected.png" Grid.Column="4"/>
+                        <Image x:Name="UStar1" Width="100" Source="/RatingControl;component/Resources/Star_unselected.png" Grid.Column="0"/>
+                        <Image x:Name="UStar2" Width="100" Source="/RatingControl;component/Resources/Star_unselected.png" Grid.Column="1"/>
+                        <Image x:Name="UStar3" Width="100" Source="/RatingControl;component/Resources/Star_unselected.png" Grid.Column="2"/>
+                        <Image x:Name="UStar4" Width="100" Source="/RatingControl;component/Resources/Star_unselected.png" Grid.Column="3"/>
+                        <Image x:Name="UStar5" Width="100" Source="/RatingControl;component/Resources/Star_unselected.png" Grid.Column="4"/>
+
+                        <TextBlock Grid.Column="5" Text="{Binding Rating, RelativeSource={RelativeSource TemplatedParent}}" Visibility="{Binding ShowNumber, RelativeSource={RelativeSource TemplatedParent}}" VerticalAlignment="Center" FontSize="20"></TextBlock>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
