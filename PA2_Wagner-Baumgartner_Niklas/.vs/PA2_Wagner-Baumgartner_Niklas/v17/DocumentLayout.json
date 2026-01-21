@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B380964-6C49-44DF-91C2-B39123400C29}|Library\\Library.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\library\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B380964-6C49-44DF-91C2-B39123400C29}|Library\\Library.csproj|solutionrelative:library\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B380964-6C49-44DF-91C2-B39123400C29}|Library\\Library.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\library\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B380964-6C49-44DF-91C2-B39123400C29}|Library\\Library.csproj|solutionrelative:library\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\slice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\slice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\spirale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\spirale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|c:\\users\\pa24b0016\\source\\repos\\pa2_wagner-baumgartner_niklas\\pa2_wagner-baumgartner_niklas\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219B2526-2AC1-4539-82A6-31EFAB66127E}|PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj|solutionrelative:pa2_wagner-baumgartner_niklas\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spirale.cs",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Spirale.cs",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\Spirale.cs",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Spirale.cs",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\Spirale.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:51:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slice.cs",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Slice.cs",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\Slice.cs",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Slice.cs",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\Slice.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvxIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:32:58.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basis.cs",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Basis.cs",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\Basis.cs",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\Basis.cs",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\Basis.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:54:16.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PA2_Wagner-Baumgartner_Niklas",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T12:40:36.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\Library\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Library\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\Library\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Library\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T12:34:20.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\Library\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "Library\\CustomControl1.cs",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\Library\\CustomControl1.cs",
+              "RelativeToolTip": "Library\\CustomControl1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:30:26.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T12:29:35.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PA24B0016\\source\\repos\\PA2_Wagner-Baumgartner_Niklas\\PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PA2_Wagner-Baumgartner_Niklas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:29:31.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
